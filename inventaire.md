@@ -6,3 +6,4 @@
 | Patins de frein (la paire) | 8 | 4 € |
 | Câble de frein | 10 | 3 € | 
 | Gaine (le mètre) | 20 | 2 € | 
+| Pneu 700x28 | 1 | 250 € |
